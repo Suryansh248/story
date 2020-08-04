@@ -1,1 +1,2 @@
-hii this is chapter1 which is made jist for checkin i mean learning version control on github
+hii this is chapter1 which is made jist for checkin i mean learning version control on github.
+now these changes aRE FOR ALIEN-PLOT BRANCH.
